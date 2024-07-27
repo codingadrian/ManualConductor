@@ -21,7 +21,7 @@ El manejo sencillo y práctico que se da en este libro de los principales artíc
 
 De esta manera, se espera que lo expuesto en los siguientes apartados y, en consecuencia, su lectura y minucioso análisis, sea un aporte para poder solucionar la problemática del tránsito y la seguridad vial en sus aspectos humanos, vehiculares y ambientales.
 
-EL TRÁNSITO Y LOS TRES ELEMENTOS DE LA CONDUCCIÓN
+**EL TRÁNSITO Y LOS TRES ELEMENTOS DE LA CONDUCCIÓN**
 Para iniciar con los aspectos técnicos básicos, se tiene que indicar que el tránsito está compuesto por tres factores: el humano, el vehicular, la vía y su entorno.
 
 Se entiende por tránsito al sistema integrado por los siguientes componentes:
@@ -31,8 +31,6 @@ Se entiende por tránsito al sistema integrado por los siguientes componentes:
 - LA VÍA Y SU ENTORNO
 
 ![image](https://github.com/user-attachments/assets/7e1fed47-16fb-4658-99b8-4a0104e5dc2f)
-
-
 
 En primera instancia se vinculan los tres elementos: el hombre, el vehículo así como la vía y su entorno conformando lo que conocemos como “Trilogía Vial” representado por un triángulo. Al ser un sistema integrado cualquier falla o deficiencia de alguno de ellos repercute en el objetivo final del mismo que es “el normal desplazamiento por la vía pública” al que llamamos la circulación, y que también resultaría un hecho que atenta contra la seguridad vial.
  
@@ -46,23 +44,19 @@ También se especifican leyes que regulan el comportamiento del hombre en la cir
 **Concepto de tránsito**
 El tránsito debe entenderse como “la acción de desplazarse o trasladarse de un lugar a otro” y debe diferenciarse de otro concepto básico, el de TRANSPORTE, que significa lo siguiente:
 
-
 “la acción de trasladar una persona o cosa de un lugar a otro”, que unido al concepto de servicio, nos da una idea más clara de su significado. Además, todo transporte implica ir o pasar de un punto a otro, es decir, circular.
  
 En cambio, “transitar” no implica “transportar”. Por lo tanto, el concepto de tránsito es más amplio, más general; comprende el transporte y la circulación.
 
-
 **Concepto y objetivo de la seguridad vial**
 La seguridad vial se define como “la disciplina que estudia y aplica las acciones y mecanismos tendientes a garantizar el buen funcionamiento de la circulación en la vía pública, previniendo los accidentes de tránsito”.
 
-
 Entendida así, la seguridad vial busca eliminar las causas que producen accidentes, creando las condiciones que minimicen el riesgo para que no sucedan, o, si ocurren, que se produzcan los menores daños posibles.
-
 
 En síntesis, el objetivo primordial de la seguridad vial es PREVENIR ACCIDENTES DE TRÁNSITO.
  
 De la relación de los términos “tránsito” y “seguridad” vial llegaremos a un concepto aún más amplio, que integrado con el concepto de sociedad, implícito siempre en materia de tránsito, nos lleva a una definición integral de la materia de tránsito y seguridad vial:
- 
+
 Es el estudio del uso de la vía pública y de sus factores, actividades o elementos correlativos, a fin de proponer y aplicar los medios tendientes a lograr en ella, una circulación y convivencia segura, fluida y placentera bajo el menor riesgo posible.
  
 Así entendido, este Manual del conductor relaciona el uso de la vía y sus funciones, específicamente la circulación de personas. Además, también aspectos de vehículos (excluyendo los ferrocarriles y semovientes), según está definido en el artículo 1 de la Ley de Tránsito.
@@ -75,15 +69,14 @@ Igualmente, regula todo lo relativo a la seguridad vial, a su financiamiento, al
  
 Los objetivos que se buscan son los siguientes:
  
-Disminuir los daños a personas y bienes en la vía pública (prevención de accidentes).
-Dar fluidez al tránsito, logrando así un máximo de aprovechamiento en las vías de circulación.
-Disminuir la contaminación ambiental provocada por los vehículos automotores y en general por el uso de la vía pública.
-Proteger y preservar la infraestructura vial, sus obras anexas y el señalamiento.
-Conservar en el mejor estado posible el parque automotor, por razones de seguridad, contaminación y economía.
-Disminuir el consumo de energía y en general los costos operativos de los vehículos automotores y mantenimiento de las vías públicas.
-Educar al ciudadano en el uso correcto de las vías públicas y de sus automotores.
-Capacitar al funcionario público que labora en materia de tránsito para un adecuado cumplimiento de sus funciones. Si se lograra llegar al cumplimiento de estos objetivos, se tendría una mejor CONVIVENCIA en la vía pública y así una mayor seguridad, tranquilidad, salubridad y comodidad para el usuario, es decir, se obtendría una mejor CALIDAD DE VIDA.
-
+- Disminuir los daños a personas y bienes en la vía pública (prevención de accidentes).
+- Dar fluidez al tránsito, logrando así un máximo de aprovechamiento en las vías de circulación.
+- Disminuir la contaminación ambiental provocada por los vehículos automotores y en general por el uso de la vía pública.
+- Proteger y preservar la infraestructura vial, sus obras anexas y el señalamiento.
+- Conservar en el mejor estado posible el parque automotor, por razones de seguridad, contaminación y economía.
+- Disminuir el consumo de energía y en general los costos operativos de los vehículos automotores y mantenimiento de las vías públicas.
+- Educar al ciudadano en el uso correcto de las vías públicas y de sus automotores.
+- Capacitar al funcionario público que labora en materia de tránsito para un adecuado cumplimiento de sus funciones. Si se lograra llegar al cumplimiento de estos objetivos, se tendría una mejor CONVIVENCIA en la vía pública y así una mayor seguridad, tranquilidad, salubridad y comodidad para el usuario, es decir, se obtendría una mejor CALIDAD DE VIDA.
 
 Es de fundamental importancia, entonces, que con la legislación existente y su correcta aplicación, por parte de las autoridades de tránsito, se llegue a un alto grado de SEGURIDAD JURÍDICA para el ciudadano. Así mismo, se logre una reducción considerable del riesgo y con ello de los costos en transporte y circulación en general.
 
@@ -94,8 +87,7 @@ A efecto de tener una mejor comprensión de la materia de tránsito y seguridad 
  
 En la Constitución Política de nuestro país, se establece en el artículo 22 que:
 
-
-Artículo 22.–
+**Artículo 22.–**
 
 “Todo costarricense puede trasladarse y permanecer en cualquier punto de la República o fuera de ella, siempre que se encuentre libre de responsabilidad, y volver cuando le convenga.
 
@@ -109,8 +101,7 @@ Entre otras disposiciones, la Ley 9078 establece que las personas no pueden circ
 
 Estas regulaciones se dan atendiendo el interés general y, por lo tanto, el bien común y la seguridad de los habitantes. Así, queda establecido el bien jurídico tutelado que protege el derecho a la circulación, la seguridad del usuario, tanto física (en cuanto a la prevención de accidentes) como jurídica; quedando regulada una garantía constitucional para beneficio del habitante.
 
-
-LEY DE TRÁNSITO
+**LEY DE TRÁNSITO**
 La Ley de Tránsito se compone de 252 artículos y 23 transitorios, divididos en ocho apartes específicos, denominados “títulos”, a su vez cada “título” se divide en “capítulos”.
 
 En este manual únicamente se hará referencia a los artículos principales y las consecuencias que se generan a partir de su incumplimiento por parte del conductor.
@@ -127,8 +118,7 @@ Lo anterior tiende a que la circulación se haga en forma correcta y expedita, c
 
 Debemos respetar la ley, los decretos ejecutivos, reglamentos y disposiciones administrativas, el señalamiento y las indicaciones del inspector de tránsito. Todas esas disposiciones, en conjunto, nos llevarán a conducirnos de la manera más segura por las vías públicas de nuestro país.
 
-
-SANCIONES
+**SANCIONES**
 Al irrespetarse una señal de tránsito, conducir un vehículo sin la licencia ni el permiso temporal de aprendizaje o bajo los efectos de alcohol u otras drogas, tanto el propietario del automotor como el conductor se exponen a una o a varias sanciones. Las multas más altas, tipo A, se aplicarán para las infracciones más graves, mientras que las más bajas, tipo E, serán para las infracciones catalogadas como menos peligrosas.
 
 Se denomina infractor a la persona que incumpla una o más normas de la ley. Sanción es la pena o castigo que se le aplica a una persona cuando infringe una o más normas legales. Sancionador es el funcionario o el juez de tránsito que impone una multa al infractor o dicta una resolución administrativa o judicial que impone algún tipo de sanción relacionada con el tránsito.
@@ -141,97 +131,68 @@ Igualmente, esta Ley establece sanciones conexas a la multa económica, tales co
 
 La Ley de Tránsito establece un sistema de acumulación de puntos como mecanismo de control del desempeño, mediante el cual el conductor acumula puntos cada vez que se cometen infracciones a los artículos 143 y 144 de la Ley de Tránsito.
 
-
-RENOVACIÓN DE LICENCIA SEGÚN ACUMULACIÓN DE PUNTOS
-
+**RENOVACIÓN DE LICENCIA SEGÚN ACUMULACIÓN DE PUNTOS**
 
 Aquel conductor que en categoría novato acumule 6 puntos en su licencia recibe una suspensión de la misma por un período de un año la primera vez.
  
 Esta misma situación será aplicable a aquellos conductores en categoría común y profesional que alcancen un puntaje en su licencia igual o mayor a los 12 puntos. La acumulación de 5 puntos o más en la licencia de conducir implica para cualquier conductor, tener que realizar un curso de sensibilización y reeducación vial como requisito obligatorio para volver a renovar su documento.
 
-
 A continuación, se detallan los principales artículos de la Ley de Tránsito que se deben conocer:
 
+**ARTÍCULOS DE LA LEY DE TRÁNSITO 9078 VIGENTES A PARTIR DEL 26 DE OCTUBRE DE 2012**
 
-ARTÍCULOS DE LA LEY DE TRÁNSITO 9078 VIGENTES A PARTIR DEL 26 DE OCTUBRE DE 2012
+**LEGISLACIÓN DE TRÁNSITO**
 
-
-LEGISLACIÓN DE TRÁNSITO
-
-
-Artículo 32: REQUISITOS GENERALES PARA LOS VEHÍCULOS AUTOMOTORES
+**Artículo 32: REQUISITOS GENERALES PARA LOS VEHÍCULOS AUTOMOTORES**
 Para poder circular, los vehículos automotores deberán cumplir los siguientes requisitos generales que les sean aplicables según su naturaleza constructiva:
-
 
 Tener un parabrisas delantero y un parabrisas trasero, siempre que la naturaleza constructiva del vehículo lo permita. Se permitirá el uso de visera, siempre que no abarque el área de cobertura de la escobilla o las escobillas.
 
-
 Estar provistos de una bocina que cumpla los límites sonoros establecidos reglamentariamente.
-
 
 Tener un indicador de velocidad en kilómetros por hora, sin perjuicio de utilizar simultáneamente alguna otra unidad de medida. El indicador deberá estar instalado a la vista del conductor.
 
-
 Tener un volante de conducción o dirección ubicado al lado izquierdo o al centro, de acuerdo con su naturaleza constructiva. No se admitirán conversiones de ubicación del volante.
-
 
 Contar con cinturones de seguridad de al menos tres puntos en todos los asientos laterales, salvo que su naturaleza constructiva no lo permita. En tal caso, deberán utilizar, como mínimo, cinturones del tipo subabdominal. En los restantes asientos, deberán poseer cinturones subabdominales. Se exceptúan de esta obligación los autobuses y las busetas de ruta regular para el servicio de transporte remunerado de personas y los vehículos tipo UTV, bicimoto y motocicleta, salvo que, en este último caso, se les adapte un dispositivo tipo sidecar, donde el pasajero deberá contar con el cinturón correspondiente.
 
-
 Contar con espejos retrovisores o cualesquiera otros dispositivos que le permitan al conductor observar el vehículo y la vía. El número de espejos, su ubicación y las demás especificaciones técnicas se establecerán vía reglamento, según las categorías de los vehículos y respetando su naturaleza constructiva.
-
 
 Estar provistos de los dispositivos proyectores de luz alta y baja, de freno, de reversa, de posición, direccionales, intermitentes de emergencia y de identificación de placa en perfecto estado en sus funciones. Sus colores, ubicaciones, número, proyección de luz, usos, condiciones de reglaje, intensidad lumínica y demás especificaciones técnicas se establecerán vía reglamento, según sus categorías y respetando la naturaleza constructiva del vehículo.
 
-
 A los vehículos de carga pesada, de equipo especial, de seguridad o de emergencia, públicos y privados, mediante permiso otorgado por el órgano competente del MOPT, se les podrán colocar luces especiales, de conformidad con lo que se establezca vía reglamento.
-
 
 Estar provistos de un dispositivo de parachoques delantero y otro trasero, acordes con la naturaleza constructiva y las especificaciones técnicas del vehículo, respetando las normativas internacionales que se dicten en la materia. Se exceptúan de este requisito los vehículos de carga que utilicen el dispositivo antiincrustamiento como mecanismo sustitutivo en su parte trasera, de acuerdo con las especificaciones reglamentarias.
 
-
 Tener un silenciador para el escape que cumpla los parámetros y los niveles de ruido establecidos en el reglamento.
-
 
 Estar equipado con frenos capaces de moderar y detener el movimiento del vehículo de un modo seguro, rápido y eficaz; así como con un freno de estacionamiento o de seguridad. Los vehículos de motor, que utilicen un sistema de aire comprimido para el funcionamiento de sus propios frenos o de los frenos de cualquier vehículo remolque o semirremolque adherido a él, deberán estar provistos de una señal de advertencia visible y sonora, ubicada en el panel de instrumentos del habitáculo del conductor del vehículo.
 
-
 Contar con un sistema de control de emisiones contaminantes en perfecto funcionamiento, de conformidad con el artículo 38 de esta ley.
-
 
 Tener limpiadores o escobillas en el parabrisas delantero; la visibilidad deberá ser libre en el ciento por ciento (100%), respecto del área de cobertura de aquellos dispositivos.
 
-
-Artículo 33: REQUISITOS ESPECÍFICOS PARA LA CIRCULACIÓN DE LOS AUTOMÓVILES
+**Artículo 33: REQUISITOS ESPECÍFICOS PARA LA CIRCULACIÓN DE LOS AUTOMÓVILES**
 Además de los requisitos contenidos en el artículo 32, los automóviles deberán cumplir los siguientes requisitos, que les sean aplicables según su naturaleza constructiva:
-
 
 Poseer apoyacabezas, siempre y cuando estos no afecten la visibilidad del conductor.
 
-
 Contar con un desempañador para los parabrisas delantero y trasero.
-
 
 Contar con llantas cuya profundidad de la ranura no alcance al testigo de la llanta.
 
-
 Contar al menos con sistema de bolsas de aire para la protección de los ocupantes de los asientos delanteros. Se exceptúan del cumplimiento de este requisito, los vehículos de servicio de transporte público, así como los vehículos automotores que por su naturaleza constructiva o diseño de fábrica no lo incorpore. 
 
-
-Artículo 36: REQUISITOS DE SEGURIDAD EN CARRETERA
+**Artículo 36: REQUISITOS DE SEGURIDAD EN CARRETERA**
 Para circular en carretera, todo vehículo deberá estar provisto de los siguientes implementos en perfecto estado de funcionamiento, salvo que su naturaleza constructiva no lo permita:
 
+- un extintor de incendios, al menos dos triángulos de seguridad o dispositivo análogo, chaleco retrorreflectivo.
 
-un extintor de incendios, al menos dos triángulos de seguridad o dispositivo análogo, chaleco retrorreflectivo.
+- una llanta de refacción y el equipo necesario para cambiarla.
 
+- en bicimoto, motocicleta y UTV provistos de cajón utilizar cinta retrorreflectiva.
 
-una llanta de refacción y el equipo necesario para cambiarla.
-
-
-en bicimoto, motocicleta y UTV provistos de cajón utilizar cinta retrorreflectiva.
-
-
-Artículo 83: PERMISO TEMPORAL DE APRENDIZAJE
+**Artículo 83: PERMISO TEMPORAL DE APRENDIZAJE**
 Para obtener el permiso temporal de aprendiz de conductor, el cual tendrá una vigencia de tres meses a partir de su fecha de expedición, el solicitante deberá cumplir los siguientes requisitos:
 
 
@@ -260,41 +221,33 @@ El aprendiz con permiso temporal debe estar asistido por un acompañante o instr
 
 En los casos en que se solicite el permiso temporal de aprendizaje, a efectos de gestionar la licencia tipo C-2, la práctica debe realizarse en unidades sin pasajeros, salvo el instructor o el acompañante.
 
-
-Artículo 84: REQUISITOS PARA LA LICENCIA DE CONDUCIR
+**Artículo 84: REQUISITOS PARA LA LICENCIA DE CONDUCIR**
 Para obtener por primera vez cualquier clase de licencia de conducir, el solicitante debe cumplir los siguientes requisitos:
-
 
 Ser mayor de 18 años, salvo en el caso de lo dispuesto por el artículo 85 para la licencia tipo A-1. En el caso de las licencias tipo B2, B3 y B4, reguladas por el artículo 86 de esta ley, deberá cumplirse la edad mínima allí indicada.
 
-
 Saber leer y escribir. Si la persona presenta algún tipo de limitación de aprendizaje, cognitiva o similar, el solicitante podrá sustituir este requisito con los cursos especiales que establezca la Dirección General de Educación Vial. A las personas con discapacidad se les deberán garantizar las adecuaciones y los servicios de apoyo necesarios durante la instrucción del curso.
-
 
 Presentar un dictamen médico general realizado por un profesional en Ciencias Médicas, autorizado por el Colegio de Médicos y Cirujanos.
 
-
 Aprobar el Curso Básico de Educación Vial, cuyos requisitos se establecerán mediante reglamento.
-
 
 Aprobar el examen práctico para el tipo de licencia a la que se aspira, de conformidad con las disposiciones que para ese efecto establezcan las autoridades competentes. Se exceptúan del examen práctico las licencias de tipo C-1 y la tipo E-1 y E-2. El examen se podrá realizar en vehículos de transmisión manual, automática, mixta o especialmente adaptados, en el caso de las personas con discapacidad, respetando la naturaleza constructiva de las casas fabricantes. Cuando se trate de vehículos articulados, la realización del examen requerirá el manejo del vehículo completo (cabezal, remolque o semirremolque). Para la obtención de la licencia B-1, el examen práctico se realizará en vehículos hasta de 4000 kilogramos de peso bruto o PMA (peso máximo autorizado), siempre que no se trate de vehículos tipo UTV.
 
-
 No haber cometido ninguno de los delitos tipificados en el artículo 261 bis de la Ley N.º 4573, Código Penal, de 4 mayo de 1970, y sus reformas, ni alguna de las infracciones catalogadas como conductas categoría A y B de esta ley, durante los 12 meses anteriores a la fecha en la que solicita la licencia por primera vez. En el caso del requisito contemplado en el inciso c) de este artículo, también deberá observarse para la renovación o reacreditación de la licencia de conducir.
 
-
-Artículo 85: DISPOSICIONES PARA LAS LICENCIAS DE CONDUCIR CLASE A
+**Artículo 85: DISPOSICIONES PARA LAS LICENCIAS DE CONDUCIR CLASE A**
 Las licencias de conducir clase A tendrán las siguientes modalidades:
 
-Tipo A-1:
+**Tipo A-1:**
 Autoriza a conducir vehículos automotores tipo bicimoto y motocicleta, de combustión interna, cuya cilindrada de motor no supere 125 centímetros cúbicos. En caso de que estos cuenten con motores eléctricos o híbridos, la potencia máxima no podrá superar 11 kilovatios. Asimismo, autoriza conducir triciclo y cuadraciclo, cuyo cilindraje de motor no supere los 250 centímetros cúbicos.
 
 Se autoriza a los mayores de 16 años a optar por esta licencia de conducir, siempre que tengan la autorización escrita de alguno de los padres, curador, tutor o de su representante legal o administrativo. Además, deberán suscribir una póliza de seguro por muerte, lesiones, accidente y daños a terceros.
 
-Tipo A-2:
+**Tipo A-2:**
 Autoriza a conducir vehículos automotores tipo bicimoto y motocicleta, de combustión interna, cuya cilindrada de motor no supere los 500 centímetros cúbicos. En caso de que estos cuenten con motores eléctricos o híbridos, la potencia máxima no podrá superar 35 kilovatios.
 
-Tipo A-3:
+**Tipo A-3:**
 Autoriza a conducir vehículos automotores tipo bicimoto y motocicleta, de combustión interna, eléctricos o híbridos, sin límite de cilindrada o potencia. Los conductores acreditados con este tipo de licencia podrán conducir todos los vehículos autorizados para las licencias clase A.
 
 
