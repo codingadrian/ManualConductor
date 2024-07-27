@@ -41,6 +41,10 @@ Se entiende por tránsito al sistema integrado por los siguientes componentes:
 - EL VEHÍCULO
 - LA VÍA Y SU ENTORNO
 
+![image](https://github.com/user-attachments/assets/7e1fed47-16fb-4658-99b8-4a0104e5dc2f)
+
+
+
 En primera instancia se vinculan los tres elementos: el hombre, el vehículo así como la vía y su entorno conformando lo que conocemos como “Trilogía Vial” representado por un triángulo. Al ser un sistema integrado cualquier falla o deficiencia de alguno de ellos repercute en el objetivo final del mismo que es “el normal desplazamiento por la vía pública” al que llamamos la circulación, y que también resultaría un hecho que atenta contra la seguridad vial.
  
 El factor humano: El hecho social llamado circulación vial es ejercido por determinados actores que son usuarios de las vías: conductores, pasajeros, peatones, ciclistas y otros.
