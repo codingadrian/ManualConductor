@@ -1,16 +1,5 @@
 # Manual del Conductor
 
-Capítulo 1: Aspectos generales del tránsito y la seguridad vial
-Capítulo 2: Legislación de tránsito
-Capítulo 3: Factor Vía y su Entorno
-Capítulo 4: Factor Vehículo
-Capítulo 5: Factor Humano
-Capítulo 6: Normas de circulación
-Capítulo 7: Rotondas
-Capítulo 8: El conductor y la contaminación ambiental
-Capítulo 9: Conducción Técnica, Económica, Eficiente
-Capítulo 10: La conducción en motocicleta
-
 ## Capítulo 1: Aspectos generales del tránsito y la seguridad vial
 
 **ANTECEDENTES**
@@ -63,7 +52,7 @@ El tránsito debe entenderse como “la acción de desplazarse o trasladarse de 
 En cambio, “transitar” no implica “transportar”. Por lo tanto, el concepto de tránsito es más amplio, más general; comprende el transporte y la circulación.
 
 
-Concepto y objetivo de la seguridad vial
+**Concepto y objetivo de la seguridad vial**
 La seguridad vial se define como “la disciplina que estudia y aplica las acciones y mecanismos tendientes a garantizar el buen funcionamiento de la circulación en la vía pública, previniendo los accidentes de tránsito”.
 
 
@@ -97,8 +86,10 @@ Capacitar al funcionario público que labora en materia de tránsito para un ade
 
 
 Es de fundamental importancia, entonces, que con la legislación existente y su correcta aplicación, por parte de las autoridades de tránsito, se llegue a un alto grado de SEGURIDAD JURÍDICA para el ciudadano. Así mismo, se logre una reducción considerable del riesgo y con ello de los costos en transporte y circulación en general.
-Capítulo 2: Legislación de tránsito
-DERECHO A CIRCULAR
+
+## Capítulo 2: Legislación de tránsito
+
+**DERECHO A CIRCULAR**
 A efecto de tener una mejor comprensión de la materia de tránsito y seguridad vial, resulta conveniente analizar lo que se denomina “derecho a circular”.
  
 En la Constitución Política de nuestro país, se establece en el artículo 22 que:
